@@ -1,1 +1,26 @@
-# Introducrion
+# Hi there 👋
+
+<!--
+**Oeing Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+반갑습니다! 저는 개발자 Oeing Dev입니다. 저는 Js와 Python을 주로 하며, Html, Ts, C++도 합니다. 
+
+저는 Github, Discord, Youtube,Twiiter을 합니다.
+
+저는 2021년 기준 14세입니다.
+
+-저의 링크들입니다.-
+Discord: [! Oeing Dev#8695](https://www.discordapp.com/users/809788465477976134)
+Discord Server: [Code Studio](https://discord.com/invite/d3r59eKBkM)
+E-Mail: [oeing200@outlook.com](mailto:oeing200@outlook.com) 
