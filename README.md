@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 반갑습니다! 저는 개발자 Oeing Dev입니다. 저는 Js와 Python을 주로 하며, Html, Ts, C++도 합니다. 
 
-저는 Github, Discord, Youtube,Twiiter을 합니다.
+저는 Github, Discord, Youtube,Twitter을 합니다.
 
 저는 2021년 기준 14세입니다.
 
